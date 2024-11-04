@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "Développeur Front-end",
-          "Recherche alternance de 12 mois",
+          "Recherche de stage de 2 mois début Janvier",
 
         ],
         autoStart: true,
