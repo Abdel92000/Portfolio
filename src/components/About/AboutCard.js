@@ -11,7 +11,7 @@ function AboutCard() {
             Bonjour à tous,<span className="purple"> je suis Rahal Abdelghani </span>
             basé à <span className="purple"> Paris.</span>
             <br />
-            Je suis actuellement étudiant chez OpenClassrooms, préparant un Bac +2.
+            Je suis actuellement étudiant chez Simplon, préparant un Bac +2.
             <br />
             J'ai un baccalauréat scientifique avec une spécialité en Mathématiques et SVT.
             <br />
